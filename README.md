@@ -1,5 +1,8 @@
-Hi, I'm Anusha 👋
+f ressume # Hi, I'm Anusha 👋
 
-Welcome to my GitHub profile!  
-I’m passionate about software development, API testing & Performance Testing
-Please find attached Ressume for your reference ANUSHA TUDURU.pdf
+Welcome to my GitHub profile!
+
+I'm passionate about **software development**, **API testing**, and **performance testing**.
+
+## 📄 Resume
+Please find my resume here: [ANUSHA_TUDURU.pdf](./ANUSHA_TUDURU.pdf)
